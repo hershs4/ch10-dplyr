@@ -23,7 +23,8 @@ plot(month.dep.delay)
 
 # In which airport were the average arrival delays the highest?
 # Hint: you'll have to perform a grouping operation before summarizing your data
-
+airport.arr.delay <- flights %>% 
+  
 
 ### Bonus ###
 # Which city was flown to with the highest average speed?
